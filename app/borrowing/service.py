@@ -4,6 +4,8 @@ Approved borrowing decreases available seed inventory. Returning seeds
 increases inventory. Rejected requests must not change on-hand stock.
 """
 
+# Demo change for incremental indexing validation
+
 from __future__ import annotations
 
 import logging
