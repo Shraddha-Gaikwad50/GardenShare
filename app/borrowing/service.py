@@ -5,6 +5,7 @@ increases inventory. Rejected requests must not change on-hand stock.
 """
 
 # Demo change for incremental indexing validation
+# Real GitHub webhook indexing test
 
 from __future__ import annotations
 
